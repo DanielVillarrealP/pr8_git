@@ -7,17 +7,17 @@ public class Main {
 		System.out.println("Hola mundo otra vez, de Daniel");
 
 		methodRuben();
+		
+		methodRamaDaniel();
 	}
 
 	public static void methodRuben() {
 		System.out.println("Hola mundo, cambiado por Rubén Vega");
-        System.out.println("Cambio añadido a la Rama Rubén");
-
-
-    }
-
-
-
-
+    System.out.println("Cambio añadido a la Rama Rubén");
+	}
+	
+	public static void methodRamaDaniel() {
+		System.out.println("Hola, cambio desde usando la rama de Daniel");
+	}
 
 }
