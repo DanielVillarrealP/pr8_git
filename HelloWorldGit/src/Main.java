@@ -5,6 +5,12 @@ public class Main {
 		System.out.println("Hola mundo");
 		
 		System.out.println("Hola mundo otra vez, de Daniel");
+
+		methodRuben();
+	}
+
+	public static void methodRuben() {
+		System.out.println("Hola mundo, cambiado por Rubén Vega");
 	}
 
 }
