@@ -12,8 +12,9 @@ public class Main {
 	}
 
 	public static void methodRuben() {
-		System.out.println("Hola mundo, cambiado por Rubén Vega");
-    		System.out.println("Cambio añadido a la Rama Rubén");
+    System.out.println("Hola mundo, cambiado por Rubén Vega");
+    System.out.println("Cambio añadido a la Rama Rubén");
+	  System.out.println("He creado mi fork, y realizo un cambio solicitando pull request al proyecto original");
 	}
 	
 	public static void methodRamaDaniel() {
